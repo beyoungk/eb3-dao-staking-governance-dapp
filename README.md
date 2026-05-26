@@ -1,4 +1,4 @@
-# eb3-dao-staking-governance-dapp
+# EB3 DAO STAKING GOVERNANCE DAPP
 
 ## Purpose
 This project is my main Web3 career portfolio project. I am building a DAO staking and governance DApp to practice the core skills needed for Web3 frontend, smart contract, and product roles.
