@@ -6,7 +6,7 @@
 - **Status:** Complete
 - **Tasks & Milestones:**
   - Initialized local engineering environment (VS Code, Node.js, and GitHub Desktop installation verification).
-  - Established structural strategy to exit "tutorial hell" quickly using Minimum Viable Knowledge (MVK).
+  - Established structural strategy to exit "tutorial loops" quickly using Minimum Viable Knowledge (MVK).
 
 #### Day 2 | Tuesday, May 26, 2026
 - **Status:** Complete
